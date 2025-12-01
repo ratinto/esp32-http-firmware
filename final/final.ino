@@ -31,7 +31,7 @@
 #define API_BASE_URL "https://synciot-backend.vercel.app/api"
 
 // Robot Configuration
-#define ROBOT_ID 1  // Your robot's ID from the database
+#define ROBOT_ID 5  // Your robot's ID from the database
 
 // User Authentication - Use YOUR account (robots belong to you)
 // Each ESP32 logs in with YOUR credentials and sends data to YOUR robots
